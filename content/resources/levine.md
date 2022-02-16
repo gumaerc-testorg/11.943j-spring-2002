@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Readings: Access to Choice'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/9770ceeafe2dd58ed4b195c9049c3703_levine.pdf
+file: /media/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/9770ceeafe2dd58ed4b195c9049c3703_levine.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: levine.pdf
 uid: 9770ceea-fe2d-d58e-d4b1-95c9049c3703

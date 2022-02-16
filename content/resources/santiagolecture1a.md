@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Urban Transportation, Land Use, and the Environment in Latin America:
   A Case Study Approach The Santiago Metropolitan Area'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/8917464c471ca14232dd8e8ad887abf7_SantiagoLecture1A.pdf
+file: /media/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/8917464c471ca14232dd8e8ad887abf7_SantiagoLecture1A.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: SantiagoLecture1A.pdf
 uid: 8917464c-471c-a142-32dd-8e8ad887abf7

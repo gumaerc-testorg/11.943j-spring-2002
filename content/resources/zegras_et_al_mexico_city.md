@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/ae78e3baab68d336c003445b21856f7d_zegras_et_al_mexico_city.pdf
+file: /media/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/ae78e3baab68d336c003445b21856f7d_zegras_et_al_mexico_city.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: zegras_et_al_mexico_city.pdf
 uid: ae78e3ba-ab68-d336-c003-445b21856f7d

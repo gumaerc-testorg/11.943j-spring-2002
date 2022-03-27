@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c4a0776a-97bd-c814-cc46-a42d03a5e95c
 resourcetype: Document
 title: kenworthyandlaube.pdf
 uid: d7a8a74f-800d-d328-8d99-ea5ec8f53cc4

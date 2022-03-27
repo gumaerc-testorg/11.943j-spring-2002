@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c4a0776a-97bd-c814-cc46-a42d03a5e95c
 resourcetype: Document
 title: malbran.pdf
 uid: cacd3b0e-2295-d353-6a7e-80ccadde1e60

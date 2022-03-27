@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c4a0776a-97bd-c814-cc46-a42d03a5e95c
 resourcetype: Document
 title: rodriguez.pdf
 uid: 89fa9551-ce33-ebd5-8562-94633959f5e0

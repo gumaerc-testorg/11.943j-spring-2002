@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c4a0776a-97bd-c814-cc46-a42d03a5e95c
 resourcetype: Document
 title: dupuy.pdf
 uid: 5fefc46b-aca5-0228-73ee-2e0e8dabac3a

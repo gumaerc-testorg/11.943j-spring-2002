@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c4a0776a-97bd-c814-cc46-a42d03a5e95c
 resourcetype: Document
 title: crane.pdf
 uid: 4e663449-78aa-5aa0-a763-b94279d68090

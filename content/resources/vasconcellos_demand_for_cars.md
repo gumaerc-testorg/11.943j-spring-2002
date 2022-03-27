@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c4a0776a-97bd-c814-cc46-a42d03a5e95c
 resourcetype: Document
 title: vasconcellos_demand_for_cars.pdf
 uid: 02fa7099-7cda-419e-3fdd-8fdbf4cf8e9f

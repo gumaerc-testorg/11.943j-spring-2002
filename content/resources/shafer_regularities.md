@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Regularities in Travel Demand'
-file: /media/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/a79172b84f114ddabb10561af7bdb69b_shafer_regularities.pdf
+file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/a79172b84f114ddabb10561af7bdb69b_shafer_regularities.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Document
 title: shafer_regularities.pdf
 uid: a79172b8-4f11-4dda-bb10-561af7bdb69b
 ---
+Readings: Regularities in Travel Demand
+

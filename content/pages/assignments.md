@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 433fe3b5-f106-a88c-0899-2e0ce37d6fdd
 ---
@@ -22,7 +26,7 @@ Files
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignment1))
+({{% resource_link 7b38077c-2466-3377-29c9-1505b922dc82 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Files
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignment2))
+({{% resource_link 266b2586-3570-aefd-1988-5dea9d93819d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Files
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignment3))
+({{% resource_link 321780d9-b111-f0ee-f773-67d57e2812d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Files
 Final
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/finalassignment))
+({{% resource_link 74f67d30-4c50-c355-57a4-9f495ad95627 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

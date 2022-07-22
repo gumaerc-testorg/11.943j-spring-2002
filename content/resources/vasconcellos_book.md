@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vasconcellos_book.pdf
 uid: de9c31c2-0855-2bf4-8c41-ddda081cc0db
 ---
 Readings: Political Issue
-

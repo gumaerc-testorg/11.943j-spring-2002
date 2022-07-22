@@ -6,6 +6,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sussmanconklin.pdf
 uid: dd1b8a89-a012-a83a-70a2-a78060db7ca9
 ---
 Readings: Regional Strategies for the Sustainable Intermodal Transportation Enterprise
-

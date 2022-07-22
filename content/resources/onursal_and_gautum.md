@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: onursal_and_gautum.pdf
 uid: 710e8227-f836-dae4-a2fa-46295cfb6477
 ---
 Readings: Vehicular Air Pollution
-

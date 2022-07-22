@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture2.pdf
 uid: 4f5c280e-e8e7-b5b0-bc25-57526dd53775
 ---
 Lecture Notes: Urban Transportation, Land Use, and the Environment
-

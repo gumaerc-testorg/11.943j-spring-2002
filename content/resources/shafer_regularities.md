@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: shafer_regularities.pdf
 uid: a79172b8-4f11-4dda-bb10-561af7bdb69b
 ---
 Readings: Regularities in Travel Demand
-

@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kenworthyandlaube.pdf
 uid: d7a8a74f-800d-d328-8d99-ea5ec8f53cc4
 ---
 Patterns of Automobile Dependence in Cities
-

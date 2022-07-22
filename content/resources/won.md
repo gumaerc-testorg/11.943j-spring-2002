@@ -6,6 +6,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: won.pdf
 uid: 0d25601b-312e-d8a4-c9f6-3f0a7fd600e5
 ---
 Readings: Multicriteria Evaluation Approach to urban Transportation Projects
-

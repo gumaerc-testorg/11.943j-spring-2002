@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: crane.pdf
 uid: 4e663449-78aa-5aa0-a763-b94279d68090
 ---
 Readings: The Influence of Urban Form on Travel: An Interpretive View
-

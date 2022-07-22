@@ -6,6 +6,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture3A.pdf
 uid: 99288603-8ba1-713f-1903-df01e394ba44
 ---
 Urban Transportation, Land Use, and the Environment in Latin America: A Case Study Approach
-

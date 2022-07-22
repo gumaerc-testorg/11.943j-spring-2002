@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bernick_and_cervero.pdf
 uid: 2d3cfdff-1805-2672-bef2-652b3a8cc847
 ---
 Readings: The Built Environment and the demand for Transit
-

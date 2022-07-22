@@ -6,6 +6,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dupuy.pdf
 uid: 5fefc46b-aca5-0228-73ee-2e0e8dabac3a
 ---
 Readings: From the "magic circle" to "automobile dependence": measurements and political implications
-

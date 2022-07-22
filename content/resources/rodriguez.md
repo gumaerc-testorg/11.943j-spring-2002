@@ -5,6 +5,7 @@ file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rodriguez.pdf
 uid: 89fa9551-ce33-ebd5-8562-94633959f5e0
 ---
 Readings: Expanding Urban Transportation Infrastructure
-

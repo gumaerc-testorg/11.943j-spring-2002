@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: Urban transportation and its Impact'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/7b38077c2466337729c91505b922dc82_assignment1.pdf
+file_size: 11461
 file_type: application/pdf
 learning_resource_types:
 - Assignments

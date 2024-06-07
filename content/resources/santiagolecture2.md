@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture Notes: Urban Transportation, Land Use, and the Environment :
   The Santiago Metropolitan Area'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/d5e92fc30595e0abf7bedf5ac071f1aa_santiagolecture2.pdf
+file_size: 609784
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

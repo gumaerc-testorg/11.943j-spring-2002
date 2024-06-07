@@ -3,6 +3,7 @@ content_type: resource
 description: 'Readings: Multicriteria Evaluation Approach to urban Transportation
   Projects'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/0d25601b312ed8a4c9f63f0a7fd600e5_won.pdf
+file_size: 6214846
 file_type: application/pdf
 learning_resource_types:
 - Readings

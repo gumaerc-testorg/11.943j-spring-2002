@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Readings: Patterns of Metropolitan Development'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/cd335b41c8e0234a43ecd9250bdfd020_ingram.pdf
+file_size: 168050
 file_type: application/pdf
 learning_resource_types:
 - Readings

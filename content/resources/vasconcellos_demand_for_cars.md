@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/02fa70997cda419e3fdd8fdbf4cf8e9f_vasconcellos_demand_for_cars.pdf
+file_size: 1196194
 file_type: application/pdf
 learning_resource_types:
 - Readings

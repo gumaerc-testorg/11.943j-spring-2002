@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Patterns of Automobile Dependence in Cities
-file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/d7a8a74f800dd3288d99ea5ec8f53cc4_kenworthyandlaube.pdf
+file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/d7a8a74f800dd3288d99ea5ec8f53cc4_kenworthyandlaube.pdf
 file_size: 371383
 file_type: application/pdf
 learning_resource_types:

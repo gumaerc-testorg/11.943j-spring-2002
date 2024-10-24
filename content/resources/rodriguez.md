@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Expanding Urban Transportation Infrastructure'
-file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/89fa9551ce33ebd5856294633959f5e0_rodriguez.pdf
+file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/89fa9551ce33ebd5856294633959f5e0_rodriguez.pdf
 file_size: 2354083
 file_type: application/pdf
 learning_resource_types:

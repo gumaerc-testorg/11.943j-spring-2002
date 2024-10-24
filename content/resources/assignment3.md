@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: Transportation planning'
-file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/321780d9b111f0eef77367d57e2812d9_assignment3.pdf
+file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/321780d9b111f0eef77367d57e2812d9_assignment3.pdf
 file_size: 14583
 file_type: application/pdf
 learning_resource_types:

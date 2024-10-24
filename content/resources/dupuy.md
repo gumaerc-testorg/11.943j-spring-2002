@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Readings: From the "magic circle" to "automobile dependence": measurements
   and political implications'
-file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/5fefc46baca5022873ee2e0e8dabac3a_dupuy.pdf
+file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/5fefc46baca5022873ee2e0e8dabac3a_dupuy.pdf
 file_size: 627648
 file_type: application/pdf
 learning_resource_types:

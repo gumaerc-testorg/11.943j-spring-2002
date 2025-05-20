@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Mobility and Sustainability'
-file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/26860c76cb120409a63b00e1b1b47d9e_wbcsd.pdf
+file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/26860c76cb120409a63b00e1b1b47d9e_wbcsd.pdf
 file_size: 7426195
 file_type: application/pdf
 learning_resource_types:

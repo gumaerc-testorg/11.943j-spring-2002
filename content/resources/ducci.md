@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/ea557bd6fe54b96b597e212216e6052e_ducci.pdf
+file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/ea557bd6fe54b96b597e212216e6052e_ducci.pdf
 file_size: 7132773
 file_type: application/pdf
 learning_resource_types:

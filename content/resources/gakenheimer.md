@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Urban mobility in the developing world'
-file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/5469118bb232fba79111f43afe6d99f6_gakenheimer.pdf
+file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/5469118bb232fba79111f43afe6d99f6_gakenheimer.pdf
 file_size: 158400
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Access to Choice'
-file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/9770ceeafe2dd58ed4b195c9049c3703_levine.pdf
+file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/9770ceeafe2dd58ed4b195c9049c3703_levine.pdf
 file_size: 1792974
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Urban Transportation, Land Use, and the Environment'
-file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/d25ff90abd4528eeb5947e5530693445_Lecture6.pdf
+file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/d25ff90abd4528eeb5947e5530693445_Lecture6.pdf
 file_size: 4265544
 file_type: application/pdf
 learning_resource_types:

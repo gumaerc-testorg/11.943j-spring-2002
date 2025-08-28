@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Vehicular Air Pollution'
-file: courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/710e8227f836dae4a2fa46295cfb6477_onursal_and_gautum.pdf
+file: /ol-ocw-studio-app/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/710e8227f836dae4a2fa46295cfb6477_onursal_and_gautum.pdf
 file_size: 53981
 file_type: application/pdf
 learning_resource_types:
